@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    border: solid 2px red;
+    background-color: rgb(5, 5, 5);
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    color: white;
+    border-radius: 5%;
+
+    
+}
+
+header{
+    border-bottom: solid 2px green;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+header h1{
+    border: solid 2px white;
+    
+}
